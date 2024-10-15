@@ -1,5 +1,0 @@
-I attempted to just work with one class. starting with the Concert Class. 
-I created my setters and getters to hold input information and created vectors to store information. 
-Then i worked with the main in Event System Management.cpp trying to get the main to pull methods from the concert.cpp class. 
-My approach was to get an event created and saved but i ran into file issues and figured i was off track completely. 
-So the next approach was to break everything down into smaller pieces and attempt to work with the factory and strategy methods but  i ran into issues with access and i wasn't even sure what it all meant or where my memory was going with these strategies. 
