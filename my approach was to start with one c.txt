@@ -1,0 +1,8 @@
+my approach was to start with one class. I started with Concert. 
+I created my H file and put all my methods in the concert cpp file. Working with the main in EventManagement i created an interface method to create and display events and called to my functions in concert cpp. As well as created a file to save input and display what has been saved. I had problems with file saving and then i gave up and came back and ??? it started saving. So thats the only part that works. 
+
+I moved on to the search and tried my best to use the strategies we were supposed to use but i was getting really confused and didn't really know how I could use what i was creating.
+
+I do know that pointers are good for better memory space. With this assignment you never know how many events would be created so you have to account for that as well as make connections to your base class easier.
+
+I feel my approach wasn't the best anyway because my program doesn't differentiate what's a concert event and what would be a conference event. The next step in my plan to control that would be to create separate files for each event and when searched it would only look through that saved file. 
